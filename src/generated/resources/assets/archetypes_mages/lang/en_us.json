@@ -1,0 +1,13 @@
+{
+  "block.archetypes_mages.divine_symbol": "Divine Symbol",
+  "block.archetypes_mages.drum": "Drum",
+  "block.archetypes_mages.hearth": "Hearth",
+  "block.archetypes_mages.shadow_altar": "Shadow Altar",
+  "block.archetypes_mages.woodland_altar": "Woodland Altar",
+  "entity.minecraft.villager.archetypes_mages.divine_cleric": "Divine Cleric",
+  "entity.minecraft.villager.archetypes_mages.druid": "Druid",
+  "entity.minecraft.villager.archetypes_mages.shadow_mage": "Shadow Mage",
+  "entity.minecraft.villager.archetypes_mages.shaman": "Shaman",
+  "entity.minecraft.villager.archetypes_mages.warlock": "Warlock",
+  "itemGroup.archetypes_mages": "Archetypes: Mages"
+}

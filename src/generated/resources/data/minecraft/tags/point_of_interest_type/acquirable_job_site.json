@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "archetypes_mages:shaman_poi",
+      "required": false
+    },
+    {
+      "id": "archetypes_mages:druid_poi",
+      "required": false
+    },
+    {
+      "id": "archetypes_mages:warlock_poi",
+      "required": false
+    },
+    {
+      "id": "archetypes_mages:shadow_mage_poi",
+      "required": false
+    },
+    {
+      "id": "archetypes_mages:divine_cleric_poi",
+      "required": false
+    }
+  ]
+}
